@@ -47,18 +47,13 @@ body {
 .cabecera {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 .titu-img {
-    width:80%;
-    flex-direction: row;
-    float:left;
-    margin:0px;
+    
 }
 .contador {
-    width:20%;
-    flex-direction: row;
-    float:right;
-    margin:0px;
+   
 }
 h2 {
     color:#000000;
